@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: Bad Hosts List
 ! Description: List with hosts of ad servers who are serving malware and unwanted content for Adblock+ & uBlock Origin
 ! Expires: 1 days
