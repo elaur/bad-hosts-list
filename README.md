@@ -6,6 +6,6 @@ If you want to use my list add in your Adblock Plus or uBlock Origin on the page
 
 `https://www.adblock.ro/bad-hosts-list.txt`
 
-![uBlock Origin](http://f.cl.ly/items/442A3h1w0j2Q243H0r3K/Image%202016-05-22%20at%203.30.34%20pm.png)
+![uBlock Origin](http://f.cl.ly/items/242l1O350s2l2o1Y2b2e/Screen%20Recording%202016-05-22%20at%2004.02%20pm.gif)
 
-![Adblock Plus](http://f.cl.ly/items/073l3e0j061g1f3m0m0y/Image%202016-05-22%20at%203.38.22%20pm.png)
+![Adblock Plus](http://f.cl.ly/items/3v1H3W0K0t0j0O372V2C/Screen%20Recording%202016-05-22%20at%2003.59%20pm.gif)
