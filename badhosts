@@ -1,0 +1,12 @@
+! Title: Bad Hosts List
+! Description: List with ad servers host who are servin malware and unwanted content for Adblock+ & uBlock Origin
+! Expires: 2 days
+! Homepage: https://www.adblock.ro
+! Last modified: 22 May 2016 14:12 UTC
+
+! TRACKING HOSTS
+
+
+! BAD HOST LIST
+||newtab-media.com^
+||to-win.online^
