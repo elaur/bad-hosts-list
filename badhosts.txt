@@ -7,8 +7,8 @@
 
 ! TRACKING HOSTS
 ||avazutracking.net^
-||millionairetrader.net^
 
 ! BAD HOST LIST
 ||newtab-media.com^
 ||to-win.online^
+||millionairetrader.net^
