@@ -15,7 +15,7 @@
 ||california-apple.com^
 
 ! Block Bad hosts image ads
-/39ffdabdb2121b12af85331fb1925838_728x90.gif
+cdn.avazutracking.net/images/201505/101/39ffdabdb2121b12af85331fb1925838_728x90.gif
 
 ! Block facebook seen on chat
 /ajax/mercury/change_read_status.php$domain=facebook.com
