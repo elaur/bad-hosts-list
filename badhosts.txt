@@ -6,7 +6,7 @@
 ! Last modified: 26 May 2016 23:19 UTC
 
 ! TRACKING HOSTS
-||avazutracking.net^
+! ||avazutracking.net^
 
 ! BAD HOST LIST
 ||newtab-media.com^
