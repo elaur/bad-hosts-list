@@ -12,3 +12,7 @@
 ||newtab-media.com^
 ||to-win.online^
 ||millionairetrader.net^
+
+! Block facebook seen on chat
+/ajax/mercury/change_read_status.php$domain=facebook.com
+facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
