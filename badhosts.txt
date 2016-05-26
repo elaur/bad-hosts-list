@@ -3,7 +3,7 @@
 ! Description: List with hosts of ad servers who are serving malware and unwanted content for Adblock+ & uBlock Origin
 ! Expires: 1 days
 ! Homepage: https://www.adblock.ro
-! Last modified: 22 May 2016 14:12 UTC
+! Last modified: 26 May 2016 23:19 UTC
 
 ! TRACKING HOSTS
 ||avazutracking.net^
@@ -13,6 +13,9 @@
 ||to-win.online^
 ||millionairetrader.net^
 ||california-apple.com^
+
+! Block Bad hosts image ads
+/39ffdabdb2121b12af85331fb1925838_728x90.gif
 
 ! Block facebook seen on chat
 /ajax/mercury/change_read_status.php$domain=facebook.com
