@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: eLaur| Bad Hosts List
+! Title: |eLaur| Bad Hosts List
 ! Description: List with hosts of ad servers who are serving malware and unwanted content for Adblock+ & uBlock Origin
 ! Expires: 1 days
 ! Homepage: https://www.adblock.ro
@@ -12,6 +12,7 @@
 ||newtab-media.com^
 ||to-win.online^
 ||millionairetrader.net^
+||california-apple.com^
 
 ! Block facebook seen on chat
 /ajax/mercury/change_read_status.php$domain=facebook.com
