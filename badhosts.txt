@@ -15,6 +15,7 @@
 ||to-win.online^
 ||millionairetrader.net^
 ||california-apple.com^
+||mygamespace.mobi
 
 ! Block Bad hosts image ads
 cdn.avazutracking.net/images/201505/101/39ffdabdb2121b12af85331fb1925838_728x90.gif
