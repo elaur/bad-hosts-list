@@ -5,6 +5,8 @@
 ! Homepage: https://www.adblock.ro
 ! Last modified: 26 May 2016 23:19 UTC
 
+/advertisement.js/*
+
 ! TRACKING HOSTS
 ! ||avazutracking.net^
 
