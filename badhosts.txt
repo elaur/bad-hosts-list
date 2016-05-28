@@ -26,3 +26,8 @@ cdn.avazutracking.net/images/201505/101/39ffdabdb2121b12af85331fb1925838_728x90.
 ! Block facebook seen on chat
 /ajax/mercury/change_read_status.php$domain=facebook.com
 facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+
+! Personal custom filter
+||www.trilulilu.ro/articol/wp-content/embed/*
+www.trilulilu.ro##.modal-exit-backdrop.in.fade.modal-backdrop
+www.trilulilu.ro###modal_exit
