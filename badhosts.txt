@@ -15,7 +15,8 @@
 ||to-win.online^
 ||millionairetrader.net^
 ||california-apple.com^
-||mygamespace.mobi
+||mygamespace.mobi^
+||Xmediaserve.com^
 
 !Block specifc link
 /redirect.php?bid_id=12070473485113677*
