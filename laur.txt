@@ -1,6 +1,6 @@
-[Adblock Plus 2.0]
+[Adblock Plus 2.1]
 ! Title: |eLaur| Bad Hosts List
-! Description: List with hosts of ad servers who are serving malware and unwanted content for Adblock+ & uBlock Origin
+! Description: List with hosts of ad servers who are serving malware and unwanted content for Adblock+ & uBlock Origin, and others personal filters.
 ! Expires: 1 days
 ! Homepage: https://www.adblock.ro
 ! Last modified: 26 May 2016 23:19 UTC
@@ -32,3 +32,6 @@ facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
 ||www.trilulilu.ro/articol/wp-content/embed/*
 www.trilulilu.ro##.modal-exit-backdrop.in.fade.modal-backdrop
 www.trilulilu.ro###modal_exit
+||yts.ag/images/vpnanim2.gif$image
+torrentz.ht^$popup
+104.197.140.120^$popup
