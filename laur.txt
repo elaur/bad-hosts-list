@@ -1,10 +1,11 @@
 [Adblock Plus 2.1]
-! Title: |eLaur| Bad Hosts List
-! Description: List with hosts of ad servers who are serving malware and unwanted content for Adblock+ & uBlock Origin, and others personal filters.
-! Expires: 1 days
+! Title: eLaur – Block list [Private List]
+! Description: List with hosts of ad servers who serving malware and unwanted content for Adblock+ & uBlock Origin, and others personal filters.
+! Expires: 2 days
 ! Homepage: https://www.adblock.ro
-! Last modified: 26 May 2016 23:19 UTC
+! Last modified: 27 Aug 2016 16:14 UTC
 
+! FOR ROMANIAN ADBLOCK+ & uBLOCK ORIGIN PUBLIC FILTERS LIST VISIT WWW.ADBLOCK.RO
 /advertisement.js/*
 
 ! TRACKING HOSTS
